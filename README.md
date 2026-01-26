@@ -53,7 +53,7 @@ I love working on **AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Terraf
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINK  ](https://www.linkedin.com/in/srinivasulu-dammu-5b610b1ab/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/srinivasulu-dammu-5b610b1ab/)
 - 📧 Email: srinivasuludammu05@gmail.com  
 
 ---
