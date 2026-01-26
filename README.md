@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srinivasulu Dammu
+# 👋 Hi, I'm Srinivasulu
 
 🚀 DevOps / Cloud / MLOps Enthusiast | AWS | CI/CD | Kubernetes | Terraform  
 💼 Software Engineer at LTIMindtree | 2+ Years Experience  
@@ -33,10 +33,10 @@ I love working on **AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Terraf
 
 ## 📌 What I'm Working On
 
-- 🔹 Building end-to-end CI/CD pipelines  
-- 🔹 Kubernetes deployment projects  
-- 🔹 Terraform AWS Infrastructure projects  
-- 🔹 Learning MLOps & GenAI workflows  
+🔹 Building end-to-end CI/CD pipelines  
+🔹 Kubernetes deployment projects  
+🔹 Terraform AWS Infrastructure projects  
+🔹 Learning MLOps & GenAI workflows  
 
 ---
 
