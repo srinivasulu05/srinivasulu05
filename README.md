@@ -58,12 +58,4 @@ I love working on **AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Terraf
 
 ---
 
-## 📊 GitHub Stats
-
-![Srinivasulu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
-
----
-
 ⭐ If you like my work, consider starring my repositories!
