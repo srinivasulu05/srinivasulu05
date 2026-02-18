@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srinivasulu
 
-🚀 DevOps / Cloud / MLOps Enthusiast | AWS | CI/CD | Kubernetes | Terraform  
+🚀 DevOps / Cloud Enthusiast | AWS | CI/CD | Kubernetes | Terraform  
 💼 Software Engineer at LTIMindtree | 2+ Years Experience  
 📍 Hyderabad, India
 
