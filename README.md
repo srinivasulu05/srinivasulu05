@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srinivasulu
 
-🚀 DevOps / Cloud Enthusiast | AWS | CI/CD | Kubernetes | Terraform  
+🚀 DevOps & Cloud Enthusiast | AWS | CI/CD | Kubernetes | Terraform  
 💼 Software Engineer at LTIMindtree | 2+ Years Experience  
 📍 Hyderabad, India
 
@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 I'm a passionate **DevOps Engineer** with hands-on experience in building CI/CD pipelines, cloud automation, and containerized deployments.  
-I love working on **AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Terraform** and I'm currently learning **MLOps & GenAI** to move into high-impact engineering roles.
+I love working on **AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Terraform** and I'm looking to learn **MLOps & GenAI** to move into high-impact engineering roles.
 
 ---
 
